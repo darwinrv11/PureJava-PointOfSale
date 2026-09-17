@@ -1,0 +1,6 @@
+/nbproject/private/
+/build/
+/dist/
+/.gradle/
+/target/
+.DS_Store
